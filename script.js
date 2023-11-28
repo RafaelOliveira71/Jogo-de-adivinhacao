@@ -10,7 +10,7 @@ function adivinharNumero() {
         if (palpiteUsuario === numeroAleatorio) {
             exibirResultado("Parabéns! Você acertou!");
         } else {
-            exibirResultado(`Ops, tente novamente. O número correto é ${numeroAleatorio}.`);
+            exibirResultado(`Ops, tente novamente.`);
         }
     } else {
         exibirResultado("Por favor, insira um número válido.");
