@@ -12,6 +12,8 @@ Bem-vindo ao Jogo de Adivinhação em JavaScript! Este é um projeto simples par
 
 4. O resultado será exibido abaixo do botão, indicando se o palpite está correto ou não.
 
+![Demonstração](https://github.com/RafaelOliveira71/Jogo-de-adivinhacao/blob/main/ezgif-4-9f29a15b52.gif)
+
 ## Desenvolvimento 💻
 
 O jogo foi desenvolvido usando HTML, CSS e JavaScript. Aqui está uma breve explicação dos arquivos no projeto:
